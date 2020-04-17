@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="409d5c13-807a-4161-9fba-e74b8d7c2d19" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="data" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZQCPRc8S2qz9UFEgFnZLQTUMTx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Chapter8_9-5">
+    <configuration name="Chapter8_9-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pydantic_type_flask_file_share" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/Tencent Files/294350394/FileRecv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/Tencent Files/294350394/FileRecv/Chapter8_9-5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pydantic_type_flask_file_share" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pydantic_type_flask_file_share" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\vsxq\scoop\apps\python\current\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (manage.py)" type="Python.FlaskServer" nameIsGenerated="true">
+      <option name="flaskDebug" value="true" />
+      <module name="pydantic_type_flask_file_share" />
+      <option name="target" value="C:\Users\vsxq\PycharmProjects\pydantic_type_flask_file_share\manage.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\vsxq\scoop\apps\python\current\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.Flask (manage.py)" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.Chapter8_9-5" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Chapter8_9-5" />
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="409d5c13-807a-4161-9fba-e74b8d7c2d19" name="Default Changelist" comment="" />
+      <created>1584761906714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584761906714</updated>
+      <workItem from="1584761913759" duration="2422000" />
+      <workItem from="1584765268985" duration="20258000" />
+      <workItem from="1584800930147" duration="2776000" />
+      <workItem from="1584956624465" duration="834000" />
+      <workItem from="1585182470529" duration="2521000" />
+      <workItem from="1585373605667" duration="2116000" />
+      <workItem from="1585382796817" duration="17696000" />
+      <workItem from="1585482986853" duration="8451000" />
+      <workItem from="1586058995498" duration="5431000" />
+      <workItem from="1586088057323" duration="2080000" />
+      <workItem from="1586091742494" duration="4146000" />
+      <workItem from="1586176323092" duration="2219000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2125" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585443804481">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584778407045" />
+    <state x="2125" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1585443804481" />
+    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585489655458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.2048.1112@0.0.1536.824" timestamp="1585489655458" />
+    <state x="767" y="392" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585381330014">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="767" y="392" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1585381330014" />
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584781499137">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584781499137" />
+    <state x="521" y="138" key="FileChooserDialogImpl" timestamp="1586177884887">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584801136090" />
+    <state x="521" y="138" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586177884887" />
+    <state width="2005" height="187" key="GridCell.Tab.0.bottom" timestamp="1586077377027">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584845011497" />
+    <state width="2005" height="187" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1586077377027" />
+    <state width="1493" height="187" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585487018525" />
+    <state width="2005" height="187" key="GridCell.Tab.0.center" timestamp="1586077377027">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584845011497" />
+    <state width="2005" height="187" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1586077377027" />
+    <state width="1493" height="187" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585487018524" />
+    <state width="2005" height="187" key="GridCell.Tab.0.left" timestamp="1586077377027">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584845011497" />
+    <state width="2005" height="187" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1586077377027" />
+    <state width="1493" height="187" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585487018524" />
+    <state width="2005" height="187" key="GridCell.Tab.0.right" timestamp="1586077377027">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584845011497" />
+    <state width="2005" height="187" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1586077377027" />
+    <state width="1493" height="187" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585487018524" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1585443789101">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1585443789101" />
+    <state x="2446" y="198" key="SettingsEditor" timestamp="1585388592637">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2446" y="198" key="SettingsEditor/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1585388592637" />
+    <state x="422" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1586088067860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584765283045" />
+    <state x="422" y="217" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.2048.1112@0.0.1536.824" timestamp="1585382801004" />
+    <state x="2483" y="293" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1586058998331" />
+    <state x="422" y="217" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586088067860" />
+    <state x="562" y="293" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1585182470876" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585486351109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585486351109" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pydantic_type_flask_file_share$Flask__manage_py_.coverage" NAME="Flask (manage.py) Coverage Results" MODIFIED="1584800932221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pydantic_type_flask_file_share$Chapter8_9_5.coverage" NAME="Chapter8_9-5 Coverage Results" MODIFIED="1586077327033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/Tencent Files/294350394/FileRecv" />
+    <SUITE FILE_PATH="coverage/pydantic_type_flask_file_share$test.coverage" NAME="test Coverage Results" MODIFIED="1584778559039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/pydantic_type_flask_file_share$manage.coverage" NAME="manage Coverage Results" MODIFIED="1585487018518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
